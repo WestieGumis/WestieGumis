@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Damian from Poland. I studied civil engineering at Technical University of Lodz but my interests was always close to IT.
+- 👀 I’m interested in front-end web development and my hobby is dancing. I'm All-Star level dancer and teacher of West Coast Swing - awesome social dance from USA where you can find end express yourself to many genres of music.
+- 🌱 I’m currently learning React.js. In the past I was developing one of the biggest fan websites about The Sims game, using HTML, CSS, PHP and JavaScript.
+- 💞️ I’m looking to collaborate on cool projects in my first commercial job in IT.
+- 📫 You can reach me by email damian.gruszczynski@gmail.com, https://www.facebook.com/damiangruszczynski/ or phone +48 511 767 494.
